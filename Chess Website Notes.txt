@@ -1,0 +1,9 @@
+Chess Website Notes
+
+- Goal of the webiste is to inform the local community of upcoming events and to garner more attention towards the chess community
+
+- Website should be easy enough to use and navigate even for elderly people
+
+- Organization is a non-profit so website should follow the appropriate rules for non-profits
+
+- Website should be simple, scalable and have accessibility features
